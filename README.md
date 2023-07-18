@@ -1,5 +1,7 @@
 # GitHub Codespaces ♥️ Next.js
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ssmiller25/grwebdev-nextjs-codespaces)
+
 Welcome to your shiny new Codespace running Next.js! We've got everything fired up and running for you to explore Next.js.
 
 You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!

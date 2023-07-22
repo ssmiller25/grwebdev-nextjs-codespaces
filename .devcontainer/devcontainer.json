@@ -1,5 +1,6 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  //had to change to support ARM64!
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:0-18",
   "hostRequirements": {
     "cpus": 4
   },
